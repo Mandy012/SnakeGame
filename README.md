@@ -7,7 +7,7 @@ package com.mycompany.snakegame;
 
 /**
  *
- * @author Stephen
+ * @author Montefalcon 
  */
 import javax.swing.*;
 import java.awt.*;
